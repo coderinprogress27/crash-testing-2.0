@@ -1,2 +1,2 @@
-# crash-testing-2.0
-fixing mistakes all the way
+# p5.play-boilerplate
+Boiler plate for p5.play
